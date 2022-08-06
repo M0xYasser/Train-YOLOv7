@@ -1,5 +1,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/I%20Support-%20%F0%9F%87%B5%F0%9F%87%B8%20Palestine-007A3D" alt="m0xyasser" /> </p>
 
+<p align="center"> <img src="https://img.shields.io/badge/YOLO-v7-red" alt="m0xyasser" /> </p>
+
 
 # what's new in Yolov7 ?
 
