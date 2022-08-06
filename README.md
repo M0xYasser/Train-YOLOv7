@@ -24,6 +24,8 @@
 
 1. [Training YOLOv7 in Google Colab Course](https://store.augmentedstartups.com/605618c8-d8c8-4a25-be71-852308115520)
 2. [Products DataSet V2](https://app.roboflow.com/project-uc8wq/smartcart-lxoxy/2) by [@M0xYasser](https://github.com/M0xYasser)
+3. [YOLOv5 training with custom data](https://www.youtube.com/watch?v=GRtgLlwxpc4) **MakeSence**
+4. [How to Train YOLO v5 on a Custom Dataset](https://www.youtube.com/watch?v=MdF6x6ZmLAY&t=524s) **RoboFlow**
 
 # Models Trainned
 
@@ -98,4 +100,3 @@
 - **Detection not detected**
 <p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183255095-10d79bdf-2316-44be-91f5-ea411d2dde4f.jpg" /> </p>
 </details>
-Made with love
