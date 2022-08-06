@@ -56,7 +56,7 @@
 </details>
 
 <details>
-<summary> Model #️⃣  </summary>
+<summary> Model 2️⃣  </summary>
     
 - **Model 2️⃣ >>** [URL](https://drive.google.com/drive/folders/1iYqNkSk1soBe-5X_c3UzOkK45t0ysi2e?usp=sharing)
     
