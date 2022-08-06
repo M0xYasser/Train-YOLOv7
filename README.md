@@ -15,7 +15,64 @@
     1. [Annotate](https://www.youtube.com/watch?v=pJaM06FG-wQ) **(Video)**
     1. [Dataset Health Check](https://www.youtube.com/watch?v=wuEilfYbHDQ) **(Video)**
     
-1. Open [YOLOv7 Colab notebook](https://colab.research.google.com/drive/1X9A8odmK4k6l26NDviiT6dd6TgR-piOa)
-    - After you finish making and annotating the dataset, export the data in (YOLO v7 PyTorch) format and then Paste the snippet into a notebook [in section `Download Correctly Formatted Custom Data`
+1. Open [YOLOv7 Colab notebook](https://colab.research.google.com/drive/1X9A8odmK4k6l26NDviiT6dd6TgR-piOa) OR [YOLOv7 Colab notebook](https://colab.research.google.com/drive/1X9A8odmK4k6l26NDviiT6dd6TgR-piOa)
+    - After you finish making and annotating the dataset, export the data in (YOLO v7 PyTorch) format and then Paste the snippet into a notebook in section `Download Correctly Formatted Custom Data`
     
-1. 
+1. Then follow the instructions of the **YOLOv7 Colab notebook**
+
+# Resources
+
+1. [Training YOLOv7 in Google Colab Course](https://store.augmentedstartups.com/605618c8-d8c8-4a25-be71-852308115520)
+2. [Products DataSet V2](https://app.roboflow.com/project-uc8wq/smartcart-lxoxy/2) by [@M0xYasser](https://github.com/M0xYasser)
+
+# Models Trainned
+
+<details>
+<summary> Model #1  </summary>
+    
+- **Model #1 >>** [URL](https://drive.google.com/drive/folders/1usN_U6H86pDW9ckbOsxY7Hmywnji7FCx?usp=sharing)
+    
+- **P_curve**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183253669-26939809-2cc1-4e5a-a9a9-c56049e6a280.png" alt="P_curve" /> </p>
+
+- **R_curve**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183253667-420ed06f-7496-4ccf-b3ae-287fef9c44ac.png" alt="R_curve" /> </p>
+
+- **PR_curve**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183253671-43f96edc-8cfa-450a-98bf-ecda0cb4e844.png" alt="PR_curve" /> </p>
+    
+- **Confusion_matrix**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183253665-71a16ac5-fb6f-4b7f-82fb-ace28a4b02a5.png" alt="confusion_matrix" /> </p>
+
+- **Detection detected**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183254311-57cd01e5-c07d-4722-a977-ef6ae7434a11.jpg" /> </p>
+    
+- **Detection not detected**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183254309-66e3827f-8035-4b7d-8c8c-7a02ccb13850.jpg" /> </p>
+</details>
+
+<details>
+<summary> Model #2  </summary>
+    
+- **Model #2 >>** [URL](https://drive.google.com/drive/folders/1iYqNkSk1soBe-5X_c3UzOkK45t0ysi2e?usp=sharing)
+    
+- **P_curve**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183254857-4b0c0ea0-7847-4060-926e-87379088e000.png" alt="P_curve" /> </p>
+
+- **R_curve**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183254860-db43c8dc-048e-4131-9951-8009ee76bf6c.png" alt="R_curve" /> </p>
+
+- **PR_curve**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183254861-205e1201-9f70-4ad8-844b-f02e552eb774.png" alt="PR_curve" /> </p>
+    
+- **Confusion_matrix**
+<p align="center"> <img src="[https://user-images.githubusercontent.com/47388207/183253665-71a16ac5-fb6f-4b7f-82fb-ace28a4b02a5.png](https://user-images.githubusercontent.com/47388207/183254864-b893aa61-b24a-45b7-ac2a-c2a2ba1a4ffa.png)" alt="confusion_matrix" /> </p>
+
+- **Detection detected**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183254855-da95e61c-cf4a-45b3-ad98-f74ee03ce914.jpg" /> </p>
+    
+- **Detection not detected**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183254853-bc90d6b4-67a8-4647-9afb-9b402e27b161.jpg" /> </p>
+</details>
+
+
