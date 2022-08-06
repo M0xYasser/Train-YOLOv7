@@ -66,7 +66,7 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183254861-205e1201-9f70-4ad8-844b-f02e552eb774.png" alt="PR_curve" /> </p>
     
 - **Confusion_matrix**
-<p align="center"> <img src="[https://user-images.githubusercontent.com/47388207/183253665-71a16ac5-fb6f-4b7f-82fb-ace28a4b02a5.png](https://user-images.githubusercontent.com/47388207/183254864-b893aa61-b24a-45b7-ac2a-c2a2ba1a4ffa.png)" alt="confusion_matrix" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183254864-b893aa61-b24a-45b7-ac2a-c2a2ba1a4ffa.png" alt="confusion_matrix" /> </p>
 
 - **Detection detected**
 <p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183254855-da95e61c-cf4a-45b3-ad98-f74ee03ce914.jpg" /> </p>
@@ -75,4 +75,27 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183254853-bc90d6b4-67a8-4647-9afb-9b402e27b161.jpg" /> </p>
 </details>
 
+<details>
+<summary> Model #3  </summary>
+    
+- **Model #3 >>** [URL](https://drive.google.com/drive/folders/1ukIbNcojwGMqp9pKiS3zFUOSw4YVj0rL?usp=sharing)
+    
+- **P_curve**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183255104-6abdf78e-a989-4058-bf51-e0df26454e2d.png" alt="P_curve" /> </p>
+
+- **R_curve**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183255100-6d841613-b5c7-4b04-82f3-0a7522d92b5d.png" alt="R_curve" /> </p>
+
+- **PR_curve**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183255102-56265ed7-4d6d-4d18-b9dc-0b6821af08ed.png" alt="PR_curve" /> </p>
+    
+- **Confusion_matrix**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183255107-12046546-96f7-4589-8e53-492fb6332bcc.png" alt="confusion_matrix" /> </p>
+
+- **Detection detected**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183255099-7132df1a-3344-4534-81e4-fab8207a7a00.jpg" /> </p>
+    
+- **Detection not detected**
+<p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183255095-10d79bdf-2316-44be-91f5-ea411d2dde4f.jpg" /> </p>
+</details>
 
