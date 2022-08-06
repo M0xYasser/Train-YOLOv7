@@ -30,9 +30,9 @@
 # Models Trainned
 
 <details>
-<summary> Model #1  </summary>
+<summary> Model 1️⃣  </summary>
     
-- **Model #1 >>** [URL](https://drive.google.com/drive/folders/1usN_U6H86pDW9ckbOsxY7Hmywnji7FCx?usp=sharing)
+- **Model 1️⃣ >>** [URL](https://drive.google.com/drive/folders/1usN_U6H86pDW9ckbOsxY7Hmywnji7FCx?usp=sharing)
     
 - **P_curve**
 <p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183253669-26939809-2cc1-4e5a-a9a9-c56049e6a280.png" alt="P_curve" /> </p>
@@ -54,9 +54,9 @@
 </details>
 
 <details>
-<summary> Model #2  </summary>
+<summary> Model #️⃣  </summary>
     
-- **Model #2 >>** [URL](https://drive.google.com/drive/folders/1iYqNkSk1soBe-5X_c3UzOkK45t0ysi2e?usp=sharing)
+- **Model 2️⃣ >>** [URL](https://drive.google.com/drive/folders/1iYqNkSk1soBe-5X_c3UzOkK45t0ysi2e?usp=sharing)
     
 - **P_curve**
 <p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183254857-4b0c0ea0-7847-4060-926e-87379088e000.png" alt="P_curve" /> </p>
@@ -78,9 +78,9 @@
 </details>
 
 <details>
-<summary> Model #3  </summary>
+<summary> Model 3️⃣  </summary>
     
-- **Model #3 >>** [URL](https://drive.google.com/drive/folders/1ukIbNcojwGMqp9pKiS3zFUOSw4YVj0rL?usp=sharing)
+- **Model 3️⃣ >>** [URL](https://drive.google.com/drive/folders/1ukIbNcojwGMqp9pKiS3zFUOSw4YVj0rL?usp=sharing)
     
 - **P_curve**
 <p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183255104-6abdf78e-a989-4058-bf51-e0df26454e2d.png" alt="P_curve" /> </p>
