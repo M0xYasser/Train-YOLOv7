@@ -98,4 +98,4 @@
 - **Detection not detected**
 <p align="center"> <img src="https://user-images.githubusercontent.com/47388207/183255095-10d79bdf-2316-44be-91f5-ea411d2dde4f.jpg" /> </p>
 </details>
-
+Made with love
