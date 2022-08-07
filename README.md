@@ -29,7 +29,7 @@
 3. [YOLOv5 training with custom data](https://www.youtube.com/watch?v=GRtgLlwxpc4) **(MakeSence)**
 4. [How to Train YOLO v5 on a Custom Dataset](https://www.youtube.com/watch?v=MdF6x6ZmLAY&t=524s) **(RoboFlow)**
 
-# Models Trainned
+# Models Trainned (YOLOv7x)
 
 <details>
 <summary> Model 1️⃣  </summary>
