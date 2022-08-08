@@ -8,7 +8,7 @@
 - [YOLOv7 Paper](https://arxiv.org/pdf/2207.02696.pdf)
 - [YOLOv7 Breakdown](https://blog.roboflow.com/yolov7-breakdown/)
 
-# Training a Custom YOLOv7 Model
+# Training a Custom YOLOv7 Model (Google Colab)
 
 1. Preparing a Dataset to train [Roboflow](https://docs.roboflow.com/quick-start)
 
@@ -21,6 +21,37 @@
     - After you finish making and annotating the dataset, export the data in (YOLO v7 PyTorch) format and then Paste the snippet into a notebook in section `Download Correctly Formatted Custom Data`
     
 1. Then follow the instructions of the **YOLOv7 Colab notebook**
+
+# Training a Custom YOLOv7 Model (On Device)
+
+## **1. Installing Yolov7 :**
+
+Open Terminal then Write :
+```shell
+git clone "https://github.com/M0xYasser/Train-By-YOLOv7x.git"
+
+```
+OR :
+
+Click Here To [Download](https://github.com/M0xYasser/Train-By-YOLOv7x/archive/refs/heads/main.zip)
+
+## **2. Installing our dependencies :**
+
+```shell
+cd yolov7
+pip3 install -r requirements.txt
+```
+
+## **3. Getting our pretrained model :**
+
+```shell
+wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7x.pt
+```
+
+## **4. Detect Images :**
+
+```shell
+python3 detect.py --weights /runs/train/exp2/weights/best.pt --conf 0.65 --source /content/gdrive/MyDrive/yolov7/smartCart-2/test/videos/20220808_120214.mp4```
 
 # Resources
 
