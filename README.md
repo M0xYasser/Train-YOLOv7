@@ -51,7 +51,8 @@ wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7x.pt
 ## **4. Detect Images :**
 
 ```shell
-python3 detect.py --weights /runs/train/exp2/weights/best.pt --conf 0.65 --source /content/gdrive/MyDrive/yolov7/smartCart-2/test/videos/20220808_120214.mp4```
+python3 detect.py --weights /runs/train/exp2/weights/best.pt --conf 0.65 --source /smartCart-2/test/videos/20220808_120214.mp4
+```
 
 # Resources
 
